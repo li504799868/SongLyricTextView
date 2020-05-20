@@ -1,0 +1,3 @@
+rootProject.name='SongLyricTextView'
+include ':library'
+include ':demo'
